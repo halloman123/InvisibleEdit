@@ -1,0 +1,19 @@
+{
+  "main": "index.tsx",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "^58.0.21",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "react-native": "0.88.1",
+    "react-native-safe-area-context": "~5.10.1",
+    "react-native-web": "^0.21.4"
+  },
+  "devDependencies": {
+    "@types/react": "~19.3.0",
+    "typescript": "~6.0.3"
+  }
+}
