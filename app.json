@@ -2,6 +2,9 @@
   "expo": {
     "name": "invincible_edit",
     "slug": "snack-0dafbbf4-dd19-4fbf-b7bb-2aa48ed87e2b",
+    "experiments": {
+      "baseUrl": "/InvisibleEdit"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
